@@ -1,2 +1,3 @@
 # Resume-web
-Only Engineers.VS code is most recommended
+Only Engineers.
+VS code is most recommended.
